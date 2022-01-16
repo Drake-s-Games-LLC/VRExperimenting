@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+VRExperimenting_UnityProject/[Ll]ibrary/
+VRExperimenting_UnityProject/[Tt]emp/
+VRExperimenting_UnityProject/[Oo]bj/
+VRExperimenting_UnityProject/[Bb]uild/
+VRExperimenting_UnityProject/[Bb]uilds/
+VRExperimenting_UnityProject/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
